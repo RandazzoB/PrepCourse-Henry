@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Empecé a cursar en Henry! y estoy aprendiendo a crear un repositorio en la nube (github).
+Bruno Randazzo. Este proyecto es una prueba que lo que hace es clonar el repositorio desde GitHub a mi escritorio local. 
